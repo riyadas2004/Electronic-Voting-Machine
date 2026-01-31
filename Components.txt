@@ -1,0 +1,6 @@
+1. Arduino Uno R3(Quantity : 1)
+2. R307S fingerprint sensor module(Quantity: 2)
+3. 16X2 12C LCD Display(Quantity : 1)
+4. Push Buttons ( Quantity : 2)
+5. Buzzer(Quantity : 1)
+6. Jumper Wires and normal wires
